@@ -672,9 +672,57 @@ h1 {
   display: block;
 }
 
+.ooo.diyi .yiyiyi {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.ooo.diyi .ererer {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0.81rem;
+  left: 0;
+}
+
+.ooo.diyi .sansansan {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 11.64rem;
+  left: 0;
+}
+
 .ooo.er {
   width: 100%;
   height: auto;
+}
+
+.ooo.er .yiyiyi {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.ooo.er .ererer {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0.81rem;
+  left: 0;
+}
+
+.ooo.er .sansansan {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 11.64rem;
+  left: 0;
 }
 
 .ooo.er .one {
@@ -1028,6 +1076,30 @@ h1 {
   height: auto;
 }
 
+.ooo.san .yiyiyi {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.ooo.san .ererer {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0.81rem;
+  left: 0;
+}
+
+.ooo.san .sansansan {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 11.64rem;
+  left: 0;
+}
+
 .ooo.san .one {
   width: 100%;
   height: 0.8rem;
@@ -1228,6 +1300,30 @@ h1 {
   height: auto;
 }
 
+.ooo.disi .yiyiyi {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.ooo.disi .ererer {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0.81rem;
+  left: 0;
+}
+
+.ooo.disi .sansansan {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 11.64rem;
+  left: 0;
+}
+
 .ooo.disi .one {
   width: 100%;
   height: 0.8rem;
@@ -1367,7 +1463,7 @@ h1 {
 .baliu {
   z-index: 8888888888;
   position: fixed;
-  bottom: 0.86rem;
+  bottom: 0.2rem;
   left: 0;
   width: 100%;
   height: 0.86rem;
