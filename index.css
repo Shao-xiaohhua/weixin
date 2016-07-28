@@ -1366,7 +1366,7 @@ h1 {
 
 .baliu {
   z-index: 8888888888;
-  position: fixed;
+  position:relative;
   bottom: 0.86rem;
   left: 0;
   width: 100%;
